@@ -1,7 +1,7 @@
 Score,Method,Team,Members,Comment
 0.82285,mlp,nthu-1,jyChou tim02468,
 0.80119,mlp,tempname,bplee zining01,
-0.77324,maxent,nthu-1,jyChou tim02468,
+0.76869,maxent,nthu-1,jyChou tim02468,
 0.72152,perceptron,nthu-1,jyChou tim02468,
 0.69986,maxent,tempname,bplee zining01,
 0.17226,perceptron,wx95,simirajpal xiexiewenting,
@@ -44,7 +44,6 @@ Score,Method,Team,Members,Comment
 0.17226,perceptron,nlparrots,RishabhJain96 innawy,
 0.17226,mlp,nlparrots,RishabhJain96 innawy,
 0.17226,maxent,nlparrots,RishabhJain96 innawy,
-0.17226,perceptron,nlp-pandas,adamwlev olgalud,
 0.17226,mlp,nlp-pandas,adamwlev olgalud,
 0.17226,maxent,nlp-pandas,adamwlev olgalud,
 0.17226,perceptron,nlp-monkey,chw001 wenyi616,
@@ -91,3 +90,5 @@ Score,Method,Team,Members,Comment
 0.17226,maxent,10,davidmao8419 xinyuan-ashley-liu,
 ,maxent,tempname,bplee zining01,Error computing accuracy!
 ,maxent,nthu-1,jyChou tim02468,Error computing accuracy!
+,perceptron,nlp-pandas,adamwlev olgalud,Error computing accuracy!
+,perceptron,nlp-pandas,adamwlev olgalud,Error computing accuracy!
