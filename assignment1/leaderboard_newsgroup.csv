@@ -1,5 +1,7 @@
 Score,Method,Team,Members,Comment
+0.83139,mlp,nthu-1,jyChou tim02468,
 0.74376,maxent,tempname,bplee zining01,
+0.74257,perceptron,nthu-1,jyChou tim02468,
 0.64339,mlp,tempname,bplee zining01,
 0.05218,perceptron,wx95,simirajpal xiexiewenting,
 0.05218,mlp,wx95,simirajpal xiexiewenting,
@@ -87,5 +89,3 @@ Score,Method,Team,Members,Comment
 0.05218,perceptron,10,davidmao8419 xinyuan-ashley-liu,
 0.05218,mlp,10,davidmao8419 xinyuan-ashley-liu,
 0.05218,maxent,10,davidmao8419 xinyuan-ashley-liu,
-,perceptron,nthu-1,jyChou tim02468,Error computing accuracy!
-,mlp,nthu-1,jyChou tim02468,Error computing accuracy!
