@@ -1,39 +1,52 @@
 Score,Method,Team,Members,Comment
+0.87631,mlp,nlp-pandas,adamwlev olgalud,
+0.86688,maxent,tempname,bplee zining01,
+0.86338,maxent,nlp-pandas,adamwlev olgalud,
 0.86164,mlp,nthu-1,jyChou tim02468,
 0.85604,maxent,naughtylovelyprogrammers,Eric0926 Taeseven,
-0.855,maxent,nlp-pandas,adamwlev olgalud,
+0.8557,mlp,naughtylovelyprogrammers,Eric0926 Taeseven,
 0.8543,perceptron,nthu-1,jyChou tim02468,
 0.85115,mlp,nlplatypuses,NJCinnamond rec285,
-0.84976,mlp,nlp-pandas,adamwlev olgalud,
+0.84626,maxent,nthu-1,jyChou tim02468,
+0.84486,mlp,tempname,bplee zining01,
 0.84102,perceptron,naughtylovelyprogrammers,Eric0926 Taeseven,
-0.81691,maxent,voltron,nickhartmann zweedao,
-0.81202,mlp,wx95,simirajpal xiexiewenting,
-0.81132,maxent,nthu-1,jyChou tim02468,
+0.83927,maxent,voltron,nickhartmann zweedao,
+0.83788,perceptron,my-perceptron-is-cooler-than-yours,mkong0216 noelkonagai,
+0.83194,perceptron,tempname,bplee zining01,
+0.82355,mlp,nlparrots,RishabhJain96 innawy,
 0.80887,perceptron,nlplatypuses,NJCinnamond rec285,
 0.80818,maxent,nlparrots,RishabhJain96 innawy,
 0.80748,perceptron,my-perceptron-is-cooler-than-yours,mkong0216 noelkonagai,
 0.80119,mlp,nlp-monkey,chw001 wenyi616,
 0.79595,maxent,hw-311,carriex mikemwx,
+0.7935,maxent,gowk-2,ke242 wlyenlin,
+0.7928,mlp,hw-311,carriex mikemwx,
 0.79071,perceptron,data-monkey,chklk tomzty,
+0.78791,mlp,wx95,simirajpal xiexiewenting,
 0.78686,perceptron,random_guess,Shuling-He cherylkkk,
 0.78477,maxent,nlp-monkey,chw001 wenyi616,
-0.78372,perceptron,not-again,dalisko mcwulff,
-0.77393,mlp,hw-311,carriex mikemwx,
-0.75716,perceptron,wx95,simirajpal xiexiewenting,
+0.77778,perceptron,tbd,shivsi sushkrish,
+0.77743,maxent,wx95,simirajpal xiexiewenting,
+0.77673,perceptron,wx95,simirajpal xiexiewenting,
+0.77673,mlp,random_guess,Shuling-He cherylkkk,
+0.75751,perceptron,the-french-fries,RaphRozenblum antoinebrtd,
 0.75507,perceptron,nlparrots,RishabhJain96 innawy,
+0.75507,mlp,beijingner,dongjiacheng jameszhang18,
+0.75262,mlp,crush_it,jaemincha wctung,
+0.74878,maxent,crush_it,jaemincha wctung,
 0.74214,perceptron,voltron,nickhartmann zweedao,
-0.73969,mlp,not-again,dalisko mcwulff,
-0.7369,maxent,wx95,simirajpal xiexiewenting,
 0.7327,perceptron,nlpleasegradeeasy,bw-tech harry-11,
+0.72816,perceptron,crush_it,jaemincha wctung,
+0.72397,mlp,next-level-perceptron,akomsky sungwy,
 0.72082,maxent,my-perceptron-is-cooler-than-yours,mkong0216 noelkonagai,
 0.71279,perceptron,hw-311,carriex mikemwx,
-0.7051,maxent,crush_it,jaemincha wctung,
 0.70405,perceptron,nlp-pandas,adamwlev olgalud,
-0.70091,mlp,crush_it,jaemincha wctung,
-0.69986,maxent,tempname,bplee zining01,
+0.70196,maxent,data-monkey,chklk tomzty,
 0.69951,perceptron,nlp-monkey,chw001 wenyi616,
-0.69532,perceptron,crush_it,jaemincha wctung,
+0.64815,maxent,next-level-perceptron,akomsky sungwy,
+0.63802,perceptron,next-level-perceptron,akomsky sungwy,
 0.45493,perceptron,nlparty-1,Camyllh anurimasharma723,
+0.25087,maxent,spam-or-ham,at669 niharsidhu,
 0.17226,perceptron,yetanotherlameteamname,PiR-P xujiyu,
 0.17226,mlp,yetanotherlameteamname,PiR-P xujiyu,
 0.17226,maxent,yetanotherlameteamname,PiR-P xujiyu,
@@ -43,74 +56,69 @@ Score,Method,Team,Members,Comment
 0.17226,mlp,voltron,nickhartmann zweedao,
 0.17226,mlp,the-french-fries,RaphRozenblum antoinebrtd,
 0.17226,maxent,the-french-fries,RaphRozenblum antoinebrtd,
-0.17226,perceptron,tempname,bplee zining01,
 0.17226,perceptron,team_ps,PrithviSriram pratyushsharma,
 0.17226,mlp,team_ps,PrithviSriram pratyushsharma,
 0.17226,maxent,team_ps,PrithviSriram pratyushsharma,
-0.17226,perceptron,tbd,shivsi sushkrish,
 0.17226,mlp,tbd,shivsi sushkrish,
 0.17226,maxent,tbd,shivsi sushkrish,
-0.17226,perceptron,spam-or-ham,at669 niharsidhu,
 0.17226,mlp,spam-or-ham,at669 niharsidhu,
-0.17226,maxent,spam-or-ham,at669 niharsidhu,
-0.17226,perceptron,rw,swb2611,
-0.17226,mlp,rw,swb2611,
-0.17226,maxent,rw,swb2611,
-0.17226,mlp,random_guess,Shuling-He cherylkkk,
+0.17226,perceptron,rw,Danielczl315 swb2611,
+0.17226,mlp,rw,Danielczl315 swb2611,
+0.17226,maxent,rw,Danielczl315 swb2611,
 0.17226,maxent,random_guess,Shuling-He cherylkkk,
-0.17226,maxent,not-again,dalisko mcwulff,
 0.17226,perceptron,nosachthing,nicksempere sach211,
 0.17226,mlp,nosachthing,nicksempere sach211,
 0.17226,maxent,nosachthing,nicksempere sach211,
 0.17226,mlp,nlpleasegradeeasy,bw-tech harry-11,
 0.17226,maxent,nlpleasegradeeasy,bw-tech harry-11,
-0.17226,maxent,nlplatypuses,NJCinnamond rec285,
-0.17226,perceptron,nlpgo,lorraineyuan,
-0.17226,mlp,nlpgo,lorraineyuan,
-0.17226,maxent,nlpgo,lorraineyuan,
-0.17226,mlp,nlparty-1,Camyllh anurimasharma723,
-0.17226,maxent,nlparty-1,Camyllh anurimasharma723,
-0.17226,mlp,nlparrots,RishabhJain96 innawy,
+0.17226,perceptron,nlpgo,aitingkellykuang lorraineyuan,
+0.17226,mlp,nlpgo,aitingkellykuang lorraineyuan,
+0.17226,maxent,nlpgo,aitingkellykuang lorraineyuan,
 0.17226,mlp,needpartner,nv78 rjpruitt16,
-0.17226,maxent,needpartner,nv78 rjpruitt16,
-0.17226,mlp,naughtylovelyprogrammers,Eric0926 Taeseven,
 0.17226,mlp,my-perceptron-is-cooler-than-yours,mkong0216 noelkonagai,
 0.17226,perceptron,kushandjay,jaydeerossi ks20,
 0.17226,mlp,kushandjay,jaydeerossi ks20,
 0.17226,maxent,kushandjay,jaydeerossi ks20,
 0.17226,perceptron,gowk-2,ke242 wlyenlin,
 0.17226,mlp,gowk-2,ke242 wlyenlin,
-0.17226,maxent,gowk-2,ke242 wlyenlin,
 0.17226,mlp,data-monkey,chklk tomzty,
-0.17226,maxent,data-monkey,chklk tomzty,
 0.17226,perceptron,beijingner,dongjiacheng jameszhang18,
-0.17226,mlp,beijingner,dongjiacheng jameszhang18,
 0.17226,maxent,beijingner,dongjiacheng jameszhang18,
-0.17226,perceptron,asdf,ckshei emmeb,
 0.17226,mlp,asdf,ckshei emmeb,
-0.17226,maxent,asdf,ckshei emmeb,
 0.17226,perceptron,22-e,FadingWinds xhfanhe,
 0.17226,mlp,22-e,FadingWinds xhfanhe,
 0.17226,maxent,22-e,FadingWinds xhfanhe,
 0.17226,perceptron,10,davidmao8419 xinyuan-ashley-liu,
 0.17226,mlp,10,davidmao8419 xinyuan-ashley-liu,
 0.17226,maxent,10,davidmao8419 xinyuan-ashley-liu,
-0.0,perceptron,the-french-fries,RaphRozenblum antoinebrtd,
-,mlp,tempname,bplee zining01,Error computing accuracy!
+,perceptron,spam-or-ham,at669 niharsidhu,Error computing accuracy!
+,perceptron,spam-or-ham,at669 niharsidhu,Error computing accuracy!
+,maxent,spam-or-ham,at669 niharsidhu,Error computing accuracy!
+,maxent,spam-or-ham,at669 niharsidhu,Error computing accuracy!
 ,maxent,nthu-1,jyChou tim02468,Error computing accuracy!
 ,perceptron,not-again,dalisko mcwulff,Error computing accuracy!
+,perceptron,not-again,dalisko mcwulff,Error computing accuracy!
 ,mlp,not-again,dalisko mcwulff,Error computing accuracy!
+,mlp,not-again,dalisko mcwulff,Error computing accuracy!
+,maxent,not-again,dalisko mcwulff,Error computing accuracy!
+,maxent,not-again,dalisko mcwulff,Error computing accuracy!
 ,perceptron,nlpleasegradeeasy,bw-tech harry-11,Error computing accuracy!
+,maxent,nlplatypuses,NJCinnamond rec285,Error computing accuracy!
+,maxent,nlplatypuses,NJCinnamond rec285,Error computing accuracy!
+,mlp,nlparty-1,Camyllh anurimasharma723,Error computing accuracy!
+,maxent,nlparty-1,Camyllh anurimasharma723,Error computing accuracy!
+,maxent,nlparty-1,Camyllh anurimasharma723,Error computing accuracy!
 ,perceptron,nlp-pandas,adamwlev olgalud,Error computing accuracy!
 ,mlp,nlp-pandas,adamwlev olgalud,Error computing accuracy!
 ,maxent,nlp-pandas,adamwlev olgalud,Error computing accuracy!
-,perceptron,next-level-perceptron,akomsky sungwy,Error computing accuracy!
-,perceptron,next-level-perceptron,akomsky sungwy,Error computing accuracy!
-,maxent,next-level-perceptron,akomsky sungwy,Error computing accuracy!
-,maxent,next-level-perceptron,akomsky sungwy,Error computing accuracy!
-,perceptron,needpartner,nv78 rjpruitt16,Error computing accuracy!
-,perceptron,needpartner,nv78 rjpruitt16,Error computing accuracy!
+,maxent,needpartner,nv78 rjpruitt16,Error computing accuracy!
+,maxent,needpartner,nv78 rjpruitt16,Error computing accuracy!
 ,perceptron,hw-311,carriex mikemwx,Error computing accuracy!
 ,mlp,hw-311,carriex mikemwx,Error computing accuracy!
 ,maxent,hw-311,carriex mikemwx,Error computing accuracy!
+,perceptron,beijingner,dongjiacheng jameszhang18,Error computing accuracy!
+,perceptron,asdf,ckshei emmeb,Error computing accuracy!
+,maxent,asdf,ckshei emmeb,Error computing accuracy!
+,perceptron,22-e,FadingWinds xhfanhe,Error computing accuracy!
+,perceptron,22-e,FadingWinds xhfanhe,Error computing accuracy!
 ,perceptron,10,davidmao8419 xinyuan-ashley-liu,Error computing accuracy!
