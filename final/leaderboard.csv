@@ -1,10 +1,15 @@
 F1,Precision,Recall,Team,Comment
+0.71734,0.72527,0.70959,mikemwx,
+0.59379,0.66311,0.5376,zining01,
 0.38239,0.53846,0.29646,chw001,
+0.15394,0.08899,0.56958,anurimasharma723,
 0.14323,0.08362,0.4987,emmeb,
+0.03519,0.03911,0.03198,adamwlev,
 0.0,0.0,0.0,zweedao,
-0.0,0.0,0.0,zining01,
+0.0,0.0,0.0,wl677,
 0.0,0.0,0.0,wctung,
 0.0,0.0,0.0,tim02468,
+0.0,0.0,0.0,swb2611,
 0.0,0.0,0.0,simirajpal,
 0.0,0.0,0.0,rec285,
 0.0,0.0,0.0,pratyushsharma,
@@ -12,17 +17,19 @@ F1,Precision,Recall,Team,Comment
 0.0,0.0,0.0,mkong0216,
 0.0,0.0,0.0,lorraineyuan,
 0.0,0.0,0.0,ks20,
+0.0,0.0,0.0,jyChou,
+0.0,0.0,0.0,jaydeerossi,
 0.0,0.0,0.0,jameszhang18,
 0.0,0.0,0.0,jaemincha,
 0.0,0.0,0.0,cherylkkk,
-0.0,0.0,0.0,carriex,
-0.0,0.0,0.0,at669,
 0.0,0.0,0.0,antoinebrtd,
-0.0,0.0,0.0,adamwlev,
-0.0,0.0,0.0,NJCinnamond,
+0.0,0.0,0.0,Taeseven,
+0.0,0.0,0.0,PiR-P,
 0.0,0.0,0.0,FadingWinds,
+0.0,0.0,0.0,Danielczl315,
 0.0,0.0,0.0,Camyllh,
 ,,,wenyi616,Error parsing tags!
-,,,mikemwx,Error parsing tags!
 ,,,dalisko,Error parsing tags!
-,,,anurimasharma723,Error parsing tags!
+,,,carriex,Error parsing tags!
+,,,at669,Error parsing tags!
+,,,NJCinnamond,Error parsing tags!
